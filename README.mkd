@@ -1,0 +1,13 @@
+to work this project
+========================
+
+* Bundle install
+'''
+% cd padrino-mongoid-omniauth
+% bundle install
+'''
+
+* Edit .powenv
+write your twitter-oauth token and keys.
+and should git-remove
+
