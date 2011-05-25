@@ -3,8 +3,8 @@ to work this project
 
 * Bundle install
 '''
-% cd padrino-mongoid-omniauth
-% bundle install
+    % cd padrino-mongoid-omniauth
+    % bundle install
 '''
 
 * Edit .powenv
