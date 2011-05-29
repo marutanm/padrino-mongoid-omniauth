@@ -1,0 +1,2 @@
+export twitter_key='your key here'
+export twitter_secret='your secret here'
